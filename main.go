@@ -10,7 +10,7 @@ type User struct {
 	Age  string `json:'age'`
 }
 
-func tes() {
+func main() {
 	//JSON-------------------------------------------------------------------------------
 	// var jsonString = `{"name": "Adit", "age": "22"}`
 	// var jsonData = []byte(jsonString)
